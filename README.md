@@ -13,7 +13,7 @@ Ad Blocker is a lightweight browser extension designed to enhance your web brows
 
 To install Ad Blocker, follow these steps:
 
-1. **Download**: Clone the repository or download the source code from [GitHub](https://github.com/piyushh2002/ad-blocker).
+1. **Download**: Clone the repository or download the source code from [GitHub](https://github.com/piyushh2002/Ad-Blocker).
 2. **Browser Extension**: Add the extension to your preferred browser (Chrome, Firefox, etc.) by enabling developer mode and loading the unpacked extension.
 3. **Enable**: Once installed, Ad Blocker will start working automatically.
 
@@ -27,7 +27,7 @@ Contributions are welcome! If you have suggestions for new features, improvement
 
 ## Support
 
-For support, bug reports, or any issues, please open an issue on [GitHub](https://github.com/piyushh2002/ad-blocker/issues).
+For support, bug reports, or any issues, please open an issue on piyushkumar272002@gmail.com
 
 ## License
 
